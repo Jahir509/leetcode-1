@@ -278,7 +278,9 @@ impl Solution {
     }
 }
 ```
-### **Rust**
+### **C#**
+
+```c#
 public class Solution {
     public int[] AnswerQueries(int[] nums, int[] queries) {
         int[] result = new int[queries.Length];
